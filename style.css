@@ -1,0 +1,53 @@
+body{
+
+height: 150%;
+background: #b5f4ef; 
+padding: 20px;
+}
+
+article{
+
+	display: flex;
+	max-width: 900px;
+	margin: auto;
+	padding: 80px;
+}
+
+#wins, .display{
+	background-color:#b5f4ef;
+	padding: 20px;
+	font-family: arial;
+	border: 1px solid white;
+	font-size: 2em;
+}
+
+#question div{
+	width: 100%
+	color: white;
+	text-align: center;
+	padding: 40px;
+	font-family: arial;
+	font-size: 20;
+;
+	
+}
+
+
+#gameBox{
+	text-align: center;
+	font-family: arial;
+	color: black;
+	background-color: transparent;
+	border-radius: 20px;
+	flex: 1;
+	border: 1px solid white;
+	max-width: 900px;
+}
+
+#logo{
+	font-family: arial;
+	color: black;
+	font-size: 42px;
+	letter-spacing: 13px;
+	padding: 10px;
+}
